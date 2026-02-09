@@ -31,6 +31,7 @@ Customer churn directly impacts revenue. This project helps businesses:
 - Matplotlib, Seaborn
 
 ## 🚀 Live App
-🔗 **Streamlit App:** *(paste your app link here)*
+🔗 **Streamlit App:** *(churnintelligencesimulator-7h2rwbhmkwnuzmmsqs7v2x
+.streamlit.app)*
 
 ## 📁 Project Structure
